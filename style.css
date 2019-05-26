@@ -1,7 +1,15 @@
 p {
+<<<<<<< HEAD
 
     background-color: orange;
     font-size: 252px;
     text-align: right;
     font-family: 'Open Sans';  
+=======
+    background-color: #42a34c;
+    font-size: 63px;
+    text-align: left;
+    font-family: 'Times New Roman';
+    font-weight: 'bold'
+>>>>>>> 6147e30d91b0f2ea824451e8838a35574b3b2207
 }
